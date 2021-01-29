@@ -2,3 +2,15 @@
   width: 100%;
   padding-top: 40px;
 }
+
+@media screen and (min-width: 768px) {
+  .lead__img {
+    padding-top: 56px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__img {
+    padding-top: 64px;
+  }
+}
