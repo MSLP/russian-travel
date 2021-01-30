@@ -1,0 +1,7 @@
+.place {
+  padding-top: 50px;
+}
+
+.place:first-child {
+  padding-top: 0;
+}
