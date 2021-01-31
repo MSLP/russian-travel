@@ -6,9 +6,16 @@
 @media screen and (min-width: 768px) {
   .place__img {
     grid-column: 1/2;
-    grid-row: 3/5;
+    grid-row: 2/4;
     padding-top: 0;
+    max-width: 340px;
   }
+
+@media screen and (min-width: 1024px) {
+  .place__img {
+    max-width: 440px;
+  }
+}
 
   @media screen and (min-width: 1280px) {
     .place__img {
