@@ -1,0 +1,19 @@
+.footer__list-item {
+  padding-top: 32px;
+}
+
+.footer__list-item:first-child {
+  padding-top: 0px;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__list-item {
+    display: inline;
+    padding: 0;
+    padding-left: 18px;
+  }
+
+  .footer__list-item:first-child {
+    padding-left: 0;
+  }
+}
