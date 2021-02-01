@@ -7,13 +7,13 @@
   text-align: center;
 }
 
-@media screen and (min-width: 534px) {
+@media screen and (min-width: 550px) {
   .lead__title {
     font-size: 52px;
   }
 }
 
-@media screen and (min-width: 715px) {
+@media screen and (min-width: 716px) {
   .lead__title {
     width: 80%;
   }
@@ -31,4 +31,3 @@
     width: 75%;
   }
 }
-

@@ -19,12 +19,6 @@
   }
 }
 
-@media screen and (min-width: 1280px) {
-  .place {
-    column-gap: 0;
-  }
-}
-
 .place:first-child {
   padding-top: 0;
 }
