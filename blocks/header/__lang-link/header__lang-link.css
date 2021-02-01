@@ -1,14 +1,8 @@
 .header__lang-link {
   color: #ffffff;
   font-size: 18px;
-  align-self: center;
+  line-height: 1.1;
   text-decoration: none;
-
-}
-
-.header__lang-link:first-child {
-  margin-right: 15px;
-  border-bottom: 1px solid #ffffff;
 }
 
 @media screen and (min-width: 768px) {
