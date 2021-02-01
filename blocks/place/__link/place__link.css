@@ -2,6 +2,7 @@
   font-size: 18px;
   line-height: 1.2;
   color: #ffffff;
+  min-width: 288px;
 }
 
 .place__link:hover {
