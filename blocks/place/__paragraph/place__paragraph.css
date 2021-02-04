@@ -3,17 +3,20 @@
   width: 90%;
   font-size: 16px;
   line-height: 1.6;
-  padding-top: 32px;
+  padding-top: 25px;
 }
 
-.place__paragraph:last-child {
-  padding-top: 25px;
+.place__paragraph:first-child {
+  padding-top: 32px;
 }
 
 @media screen and (min-width: 768px) {
   .place__paragraph {
     margin: 0;
     width: 100%;
+  }
+
+  .place__paragraph:first-child {
     padding-top: 0;
   }
 }
