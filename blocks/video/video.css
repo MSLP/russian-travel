@@ -1,0 +1,11 @@
+.video {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+
+@media screen and (min-width: 1280px) {
+  .video {
+    max-width: 1184;
+  }
+}

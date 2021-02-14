@@ -1,0 +1,6 @@
+.video__observatory {
+  border-radius: 5px;
+  background-image: url(../../../images/video-observatory.jpg);
+  background-size: cover;
+  min-height: 192px;
+}

@@ -1,0 +1,31 @@
+.video__container {
+  padding-top: 24px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+}
+
+@media screen and (min-width: 450px) {
+  .video__container {
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .video__container {
+    padding-top: 56px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .video__container {
+    padding-top: 73px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .video__container {
+    gap: 18px;
+  }
+}
