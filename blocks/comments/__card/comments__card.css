@@ -1,0 +1,6 @@
+@media (min-width: 1024px) {
+  .comments__card {
+    display: flex;
+    flex-direction: column;
+  }
+}
