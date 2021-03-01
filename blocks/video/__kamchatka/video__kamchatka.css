@@ -2,29 +2,24 @@
   border-radius: 5px;
   background-image: url(../../../images/video-kamchatka.jpg);
   background-size: cover;
-  min-height: 192px;
+  background-position: bottom;
+  height: 192px;
 }
 
 @media screen and (min-width: 375px) {
   .video__kamchatka {
-    min-height: 200px;
+    height: 200px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .video__kamchatka {
-    min-height: 288px;
+    height: 288px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .video__kamchatka {
-    min-height: 323px;
-  }
-}
-
-@media screen and (min-width: 1440px) {
-  .video__kamchatka {
-    max-height: 323px;
+    height: 323px;
   }
 }

@@ -2,5 +2,24 @@
   border-radius: 5px;
   background-image: url(../../../images/video-observatory.jpg);
   background-size: cover;
+  background-position: bottom;
   min-height: 192px;
+}
+
+@media screen and (min-width: 375px) {
+  .video__observatory {
+    height: 200px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .video__observatory {
+    height: 288px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .video__observatory {
+    height: 323px;
+  }
 }
