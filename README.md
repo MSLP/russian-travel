@@ -1,13 +1,13 @@
 # Russian travel
 
-Страница о путешествии по России.
-Сайт адаптирован под разные разрешения экранов: мобильные версии, планшет, стандартные мониторы. Использовался подход mobile-first. Страница состоит из разных секций, включающих в себя таблицы и списки.
+It's a blog page, which was created within the bootcamp accordingly with layout provided below. This project was uset to get experience with mobile-first approach and work with custom fonts. This page contains different sections including tables and lists.
 
-[Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
 
-[Ссылка на GitHubPages](https://mslp.github.io/russian-travel/)
+[Figma template](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
 
-**Используемые технологии и библиотеки :**
+[Project at GitHubPages](https://mslp.github.io/russian-travel/)
+
+**Technologies :**
 
 * HTML
 * CSS
